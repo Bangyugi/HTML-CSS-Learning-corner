@@ -1,0 +1,49 @@
+/* *{
+    background-color: #FBF9F1;
+} */
+
+.profi .imgCat {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+#title {
+    background-color: #92c7cf !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+#skills {
+    background-color: #f7f7f7;
+}
+
+.card.skill-item{
+    height: 300px !important;
+}
+
+h3.skill-text{
+    text-align: center;
+    z-index: 1;
+}
+
+.col{
+    position: relative;
+}
+
+.skill-image{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+}
+
+#footer{
+    background-color: #9BCDD2;
+    
+}
+
