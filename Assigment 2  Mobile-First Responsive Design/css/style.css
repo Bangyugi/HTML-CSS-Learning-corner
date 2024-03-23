@@ -309,6 +309,9 @@ button.btnt:hover {
 }
 
 @media screen and (max-width: 800px) {
+    .container{
+        padding: 0 32px;
+    }
     .container-gallery {
         display: grid;
         grid-template-columns: 1fr;
