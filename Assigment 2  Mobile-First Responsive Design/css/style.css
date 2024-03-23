@@ -122,14 +122,14 @@ h5 {
     padding-top: 30px;
 }
 
-.sidebar ul{
+.sidebar ul {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
     gap: 10px;
 }
-li{
+li {
     list-style-type: none;
     width: 100%;
     text-align: center;
@@ -156,7 +156,7 @@ li{
     height: 100%;
     background: rgba(255, 255, 255, 0);
     border-radius: 10px;
-    top:0;
+    top: 0;
     transition: 0.5s;
 }
 
@@ -315,5 +315,20 @@ button.btnt:hover {
     }
     .text-box-wraper {
         margin: 150px 32px 0 32px;
+    }
+    h1 {
+        font-size: 60px;
+        line-height: 60.88px;
+        text-align: left;
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 38.41px;
+        text-align: left;
+    }
+    h3 {
+        font-size: 20px;
+        line-height: 28.26px;
+        text-align: left;
     }
 }
